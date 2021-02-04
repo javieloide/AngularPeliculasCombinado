@@ -1,0 +1,30 @@
+form{
+  width: 100%;
+  max-width: 500px;
+}
+
+mat-form-field {
+  width: 100%;
+
+}
+
+img {
+  vertical-align: middle;
+  margin-right: 8px;
+  width: 55px;
+  height: 65px;
+  padding: 5px;
+}
+
+table{
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+table ng-container{
+  padding: 20px;
+}
+
+mat-icon{
+  cursor: pointer;
+}

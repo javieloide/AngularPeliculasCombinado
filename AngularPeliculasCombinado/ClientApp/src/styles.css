@@ -1,0 +1,11 @@
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.tabla-indice {
+  width: 100%;
+  margin-top: 1rem;
+}
+
+.tabla-indice a {
+  margin-right: 1rem;
+  text-decoration: none;
+}
